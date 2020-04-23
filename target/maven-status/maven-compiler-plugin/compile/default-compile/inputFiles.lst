@@ -1,0 +1,12 @@
+G:\work\im_project\src\main\java\org\im\agreement\protocol\login\infoObject\MessageInfo.java
+G:\work\im_project\src\main\java\org\im\agreement\protocol\register\RegisterRequest.java
+G:\work\im_project\src\main\java\org\im\agreement\util\SerializationUtil.java
+G:\work\im_project\src\main\java\org\im\agreement\codec\Decoder.java
+G:\work\im_project\src\main\java\org\im\agreement\protocol\login\infoObject\UserInfo.java
+G:\work\im_project\src\main\java\org\im\agreement\protocol\login\LoginRequest.java
+G:\work\im_project\src\main\java\org\im\agreement\protocol\login\LoginResponse.java
+G:\work\im_project\src\main\java\org\im\agreement\protocol\Packet.java
+G:\work\im_project\src\main\java\org\im\agreement\protocol\login\infoObject\GroupInfo.java
+G:\work\im_project\src\main\java\org\im\agreement\codec\Encoder.java
+G:\work\im_project\src\main\java\org\im\agreement\protocol\register\RegisterResponse.java
+G:\work\im_project\src\main\java\org\im\agreement\protocol\Command.java
