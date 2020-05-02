@@ -3,8 +3,8 @@ package org.im.agreement.protocol.login;
 import org.im.agreement.protocol.Address;
 import org.im.agreement.protocol.Command;
 import org.im.agreement.protocol.Packet;
-import org.im.agreement.protocol.infoObject.GroupInfo;
-import org.im.agreement.protocol.infoObject.UserInfo;
+import org.im.agreement.protocol.login.infoObject.GroupInfo;
+import org.im.agreement.protocol.login.infoObject.UserInfo;
 
 import java.util.ArrayList;
 import java.util.List;

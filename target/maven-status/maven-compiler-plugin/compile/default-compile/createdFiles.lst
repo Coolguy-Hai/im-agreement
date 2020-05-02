@@ -1,13 +1,13 @@
-org\im\agreement\protocol\infoObject\GroupInfo.class
+org\im\agreement\protocol\login\infoObject\MessageInfo.class
 org\im\agreement\protocol\Packet.class
 org\im\agreement\codec\Encoder.class
-org\im\agreement\protocol\infoObject\MessageInfo.class
 org\im\agreement\protocol\login\LoginResponse.class
 org\im\agreement\protocol\login\LoginRequest.class
+org\im\agreement\protocol\login\infoObject\GroupInfo.class
 org\im\agreement\protocol\Address.class
 org\im\agreement\protocol\register\RegisterRequest.class
 org\im\agreement\codec\Decoder.class
 org\im\agreement\util\SerializationUtil.class
 org\im\agreement\protocol\register\RegisterResponse.class
 org\im\agreement\protocol\Command.class
-org\im\agreement\protocol\infoObject\UserInfo.class
+org\im\agreement\protocol\login\infoObject\UserInfo.class

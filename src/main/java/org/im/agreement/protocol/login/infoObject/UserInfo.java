@@ -1,4 +1,4 @@
-package org.im.agreement.protocol.infoObject;
+package org.im.agreement.protocol.login.infoObject;
 
 import java.util.ArrayList;
 import java.util.List;
