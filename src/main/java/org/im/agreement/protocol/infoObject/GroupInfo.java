@@ -1,4 +1,7 @@
-package org.im.agreement.protocol.login.infoObject;
+package org.im.agreement.protocol.infoObject;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class GroupInfo {
 
@@ -6,6 +9,23 @@ public class GroupInfo {
     private String groupNumber;
     private String groupOwnerId;
     private String groupSuperId;
+    private List<MessageInfo> messages = new ArrayList<MessageInfo>();
+
+    public GroupInfo(String groupId, String groupNumber, String groupOwnerId, String groupSuperId, List<MessageInfo> messages) {
+        this.groupId = groupId;
+        this.groupNumber = groupNumber;
+        this.groupOwnerId = groupOwnerId;
+        this.groupSuperId = groupSuperId;
+        this.messages = messages;
+    }
+
+    public List<MessageInfo> getMessages() {
+        return messages;
+    }
+
+    public void setMessages(List<MessageInfo> messages) {
+        this.messages = messages;
+    }
 
     public String getGroupId() {
         return groupId;
